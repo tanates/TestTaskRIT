@@ -1,0 +1,14 @@
+C:\Users\timur\source\repos\BinaryTreeRIT\BinaryTreeRIT\bin\Debug\net6.0\BinaryTreeRIT.exe
+C:\Users\timur\source\repos\BinaryTreeRIT\BinaryTreeRIT\bin\Debug\net6.0\BinaryTreeRIT.deps.json
+C:\Users\timur\source\repos\BinaryTreeRIT\BinaryTreeRIT\bin\Debug\net6.0\BinaryTreeRIT.runtimeconfig.json
+C:\Users\timur\source\repos\BinaryTreeRIT\BinaryTreeRIT\bin\Debug\net6.0\BinaryTreeRIT.dll
+C:\Users\timur\source\repos\BinaryTreeRIT\BinaryTreeRIT\bin\Debug\net6.0\BinaryTreeRIT.pdb
+C:\Users\timur\source\repos\BinaryTreeRIT\BinaryTreeRIT\obj\Debug\net6.0\BinaryTreeRIT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timur\source\repos\BinaryTreeRIT\BinaryTreeRIT\obj\Debug\net6.0\BinaryTreeRIT.AssemblyInfoInputs.cache
+C:\Users\timur\source\repos\BinaryTreeRIT\BinaryTreeRIT\obj\Debug\net6.0\BinaryTreeRIT.AssemblyInfo.cs
+C:\Users\timur\source\repos\BinaryTreeRIT\BinaryTreeRIT\obj\Debug\net6.0\BinaryTreeRIT.csproj.CoreCompileInputs.cache
+C:\Users\timur\source\repos\BinaryTreeRIT\BinaryTreeRIT\obj\Debug\net6.0\BinaryTreeRIT.dll
+C:\Users\timur\source\repos\BinaryTreeRIT\BinaryTreeRIT\obj\Debug\net6.0\refint\BinaryTreeRIT.dll
+C:\Users\timur\source\repos\BinaryTreeRIT\BinaryTreeRIT\obj\Debug\net6.0\BinaryTreeRIT.pdb
+C:\Users\timur\source\repos\BinaryTreeRIT\BinaryTreeRIT\obj\Debug\net6.0\BinaryTreeRIT.genruntimeconfig.cache
+C:\Users\timur\source\repos\BinaryTreeRIT\BinaryTreeRIT\obj\Debug\net6.0\ref\BinaryTreeRIT.dll

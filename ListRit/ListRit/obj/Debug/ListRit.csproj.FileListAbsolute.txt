@@ -1,0 +1,7 @@
+C:\Users\timur\source\repos\ListRit\ListRit\bin\Debug\ListRit.exe.config
+C:\Users\timur\source\repos\ListRit\ListRit\bin\Debug\ListRit.exe
+C:\Users\timur\source\repos\ListRit\ListRit\bin\Debug\ListRit.pdb
+C:\Users\timur\source\repos\ListRit\ListRit\obj\Debug\ListRit.csproj.AssemblyReference.cache
+C:\Users\timur\source\repos\ListRit\ListRit\obj\Debug\ListRit.csproj.CoreCompileInputs.cache
+C:\Users\timur\source\repos\ListRit\ListRit\obj\Debug\ListRit.exe
+C:\Users\timur\source\repos\ListRit\ListRit\obj\Debug\ListRit.pdb
